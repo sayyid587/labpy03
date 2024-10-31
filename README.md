@@ -11,7 +11,7 @@ Mata kuliah : Bahasa pemrograman <p>
 ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft6.png)
 
-## `edan`Latihan2: Laba
+## `Latihan2: Laba`
 ### Program python
 ![gambar1](screenshot/ft7.png)
 ### Hasil eksekusi program 

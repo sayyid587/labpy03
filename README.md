@@ -4,7 +4,7 @@ Nim : 312410496 <p>
 Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa pemrograman <p>
 
-## Latihan1: Angka random
+## `Latihan1: Angka random`
 ### Program python
 ![gambar1](screenshot/ft5.png)
 ### Hasil eksekusi program 
@@ -18,8 +18,8 @@ ini hasil eksekusi program python diatas
 ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft8.png)
 
-## Latihan3: Mesin atm
-### Flowchart 
+## `Latihan3: Mesin atm`
+### Flowchart
 ![gambar1](screenshot/ft1.png)
 ![gambar1](screenshot/ft2.png)
 

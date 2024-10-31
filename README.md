@@ -1,8 +1,8 @@
 # labpy03
-Nama : Sayyid Sulthan Abyan
-Nim : 312410496
-Kelas : TI.24.A.5
-Mata kuliah : Bahasa pemrograman
+Nama : Sayyid Sulthan Abyan <p>
+Nim : 312410496 <p>
+Kelas : TI.24.A.5 <p>
+Mata kuliah : Bahasa pemrograman <p>
 ## Mesin atm
 ### flowchart 
 ![gambar1](screenshot/ft1.png)
@@ -22,5 +22,5 @@ Mata kuliah : Bahasa pemrograman
 **8.saldo = saldo - jumlah tarik :** Sistem mengurangi saldo dengan jumlah tarik. <p>
 **9.Print saldo :** Sistem mencetak saldo yang diperbarui. <p>
 - **Jika Pilihan = 2 (Cek saldo):** Print saldo (Print balance):Sistem mencetak saldo. <p>
-- **Jika Pilihan = 3 (Keluar):** Terima kasih telah menggunakan mesin ATM ini (Thank you for using this ATM):Sistem menampilkan pesan terima kasih. <p>
+- **Jika Pilihan = 3 (Keluar):** "Terima kasih telah menggunakan mesin ATM ini" :Sistem menampilkan pesan terima kasih. <p>
 **10.Selesai (Finish):** Proses berakhir. <p>

@@ -30,3 +30,7 @@ seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadika
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft4.png)
+![gambar1](screenshot/ft5.png)
+![gambar1](screenshot/ft6.png)
+![gambar1](screenshot/ft7.png)
+![gambar1](screenshot/ft8.png)

@@ -51,11 +51,13 @@ ini hasil eksekusi program python diatas
 **2.Inisialisasi saldo:** Saldo awal diatur menjadi Rp. 100.000.000. 
 
 **3.Tampilkan menu:** Sistem menampilkan menu dengan tiga opsi: 
+
 -Tarik tunai 
 -Cek saldo 
 -Keluar
 
 **4.Input pilihan menu:** Pengguna memasukkan pilihan mereka (1, 2, atau 3). 
+
 **- Jika Pilihan = 1 (Tarik Tunai):**
 
 **5.Input jumlah tarik :** Pengguna memasukkan jumlah uang yang ingin ditarik. 
@@ -67,6 +69,7 @@ ini hasil eksekusi program python diatas
 **8.saldo = saldo - jumlah tarik :** Sistem mengurangi saldo dengan jumlah tarik. 
 
 **9.Print saldo :** Sistem mencetak saldo yang diperbarui. 
+
 **- Jika Pilihan = 2 (Cek saldo):** Print saldo (Print balance):Sistem mencetak saldo. 
 **- Jika Pilihan = 3 (Keluar):** "Terima kasih telah menggunakan mesin ATM ini" :Sistem menampilkan pesan terima kasih. 
 

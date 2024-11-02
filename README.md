@@ -27,7 +27,7 @@ Mata kuliah : Bahasa pemrograman <p>
 - Ulangi langkah 4 dan 5 hingga count mencapai nilai n.
 
 **7.Selesai:**
-- Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.`
+- Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
 ### Program python
 ![gambar1](screenshot/ft5.png)
 ### Hasil eksekusi program 

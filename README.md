@@ -66,9 +66,9 @@ ini hasil eksekusi program python diatas
     - Inisialisasi saldo awal sebesar Rp 1.000.000.000.
  2. Tampilkan Menu:
     - Tampilkan menu pilihan kepada pengguna:
-      > Cek Saldo
-      > Tarik Tunai
-      > Keluar
+      > Cek Saldo <p>
+      > Tarik Tunai <p>
+      > Keluar <p>
  3. Meminta Input Pengguna:
     - Minta pengguna memilih opsi dari menu.
  4. Proses Pilihan Pengguna:

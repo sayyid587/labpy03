@@ -34,6 +34,45 @@ ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft6.png)
 
 ## `Latihan2: Laba`
+# Judul Proyek
+
+## Deskripsi Singkat
+Ini adalah proyek contoh untuk menunjukkan format README.md yang baik.
+
+## Cara Instalasi
+<ol type="o">
+  <li>Clone repositori ini:
+    <pre><code>
+    git clone https://github.com/nama_pengguna/nama_proyek.git
+    </code></pre>
+  </li>
+  <li>Masuk ke direktori proyek:
+    <pre><code>
+    cd nama_proyek
+    </code></pre>
+  </li>
+  <li>Instal dependensi:
+    <pre><code>
+    pip install -r requirements.txt
+    </code></pre>
+  </li>
+</ol>
+
+## Fitur
+<ul>
+  <li>Fitur 1: Menambahkan fitur ini memberikan fungsi tersebut.</li>
+  <li>Fitur 2: Menambahkan fitur ini memungkinkan pengguna melakukan ini.</li>
+  <li>Fitur 3: Fitur ini membantu dalam hal ini.</li>
+</ul>
+
+## Penggunaan
+```python
+# Contoh kode penggunaan proyek Anda
+from nama_proyek import fungsi_utama
+
+hasil = fungsi_utama()
+print(hasil)
+
 ### Program python
 ![gambar1](screenshot/ft7.png)
 ### Hasil eksekusi program 

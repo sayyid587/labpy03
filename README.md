@@ -63,7 +63,7 @@ ini hasil eksekusi program python diatas
 
 ### Alur Algoritma Latihan3 :
  1. Mulai Program:
-    - Inisialisasi saldo awal sebesar Rp 1.000.000.000.
+    - Inisialisasi saldo awal sebesar Rp 1.00.000.000.
  2. Tampilkan Menu:
     - Tampilkan menu pilihan kepada pengguna:
       > Cek Saldo <p>

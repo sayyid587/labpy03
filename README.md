@@ -75,10 +75,10 @@ ini hasil eksekusi program python diatas
     - Jika Pilihan 1 (Cek Saldo):
       > Tampilkan saldo saat ini.
     - Jika Pilihan 2 (Tarik Tunai):
-      > Minta pengguna memasukkan jumlah uang yang ingin ditarik.
-      > Periksa apakah jumlah yang diminta lebih besar dari saldo.
-        > Jika ya, tampilkan pesan “Saldo tidak mencukupi.”
-        > Jika tidak, kurangi saldo dengan jumlah yang diminta dan tampilkan saldo saat ini.
+      > Minta pengguna memasukkan jumlah uang yang ingin ditarik. <p>
+      > Periksa apakah jumlah yang diminta lebih besar dari saldo. <p>
+        > Jika ya, tampilkan pesan “Saldo tidak mencukupi.” <p>
+        > Jika tidak, kurangi saldo dengan jumlah yang diminta dan tampilkan saldo saat ini. <p>
     - Jika Pilihan 3 (Keluar):
       > Tampilkan pesan “Terima kasih telah menggunakan ATM kami.” dan akhiri program.
     - Jika Pilihan Tidak Valid:

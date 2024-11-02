@@ -20,7 +20,7 @@ Mata kuliah : Bahasa pemrograman <p>
 
 5.Memeriksa Bilangan Acak:
 -Periksa apakah bilangan acak yang dihasilkan kurang dari 0.5.
--Jika ya, ```tambahkan nilai count dengan 1 dan cetak bilangan tersebut dengan format “Data Ke {count} = {random_number}”.
+-Jika ya, ```tambahkan nilai count dengan 1 dan cetak bilangan tersebut dengan format “Data Ke {count} = {random_number}”.```
 
 6.Akhir Looping:
 -Ulangi langkah 4 dan 5 hingga count mencapai nilai n.
@@ -34,6 +34,48 @@ ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft6.png)
 
 ## `Latihan2: Laba`
+# Proyek Pemeriksaan Bilangan Acak
+
+## Deskripsi Singkat
+Proyek ini menghasilkan bilangan acak dan memeriksa apakah bilangan tersebut kurang dari 0.5. Jika ya, bilangan tersebut akan dicetak dengan format tertentu.
+
+## Cara Instalasi
+Untuk menginstal proyek ini, ikuti langkah-langkah berikut:
+1. Clone repositori ini:
+    ```bash
+    git clone https://github.com/nama_pengguna/nama_proyek.git
+    ```
+2. Masuk ke direktori proyek:
+    ```bash
+    cd nama_proyek
+    ```
+3. Instal dependensi:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Fitur
+○ Menghasilkan bilangan acak.
+○ Memeriksa apakah bilangan acak kurang dari 0.5.
+○ Menampilkan bilangan acak yang memenuhi kondisi.
+
+## Penggunaan
+Berikut adalah contoh kode untuk penggunaan proyek ini:
+```python
+import random
+
+n = int(input("Masukkan nilai n: "))
+
+count = 0
+
+while count < n:
+    angka_acak = random.random()
+    if angka_acak < 0.5:
+        count += 1
+        print(f"Data Ke {count} = {angka_acak}")
+
+print("Selesai")
+```
 ### Program python
 ![gambar1](screenshot/ft7.png)
 ### Hasil eksekusi program 

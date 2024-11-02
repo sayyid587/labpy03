@@ -4,7 +4,7 @@ Nim : 312410496 <p>
 Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa pemrograman <p>
 
-## `Latihan1: Angka random
+## `Latihan1: Angka random`
 1.Mulai Program :
 - Import modul random.
 - Minta input dari pengguna untuk nilai n (jumlah bilangan acak yang ingin ditampilkan).

@@ -6,8 +6,8 @@ Mata kuliah : Bahasa pemrograman <p>
 
 ## `Latihan1: Angka random`
 1.Mulai Program :
-- Import modul random.
-- Minta input dari pengguna untuk nilai n (jumlah bilangan acak yang ingin ditampilkan).
+```Import modul random.
+```Minta input dari pengguna untuk nilai n (jumlah bilangan acak yang ingin ditampilkan).
   
 2.Inisialisasi Variabel :
 - Inisialisasi variabel count dengan nilai 0 untuk menghitung jumlah bilangan acak yang sudah dihasilkan.

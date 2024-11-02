@@ -62,34 +62,29 @@ ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft2.png)
 
 ### Alur Algoritma Latihan3 :
-**1.Mulai (Start):** Proses dimulai. 
-
-**2.Inisialisasi saldo:** Saldo awal diatur menjadi Rp. 100.000.000. 
-
-**3.Tampilkan menu:** Sistem menampilkan menu dengan tiga opsi: 
-
--Tarik tunai <p>
--Cek saldo <p>
--Keluar <p>
-
-**4.Input pilihan menu:** Pengguna memasukkan pilihan mereka (1, 2, atau 3). 
-
-**- Jika Pilihan = 1 (Tarik Tunai):**
-
-**5.Input jumlah tarik :** Pengguna memasukkan jumlah uang yang ingin ditarik. 
-
-**6.Jumlah Tarik <= saldo? :** Sistem memeriksa apakah jumlah tarik lebih kecil atau sama dengan saldo. 
-
-**7.Jumlah Tarik > 0?:** Sistem memeriksa apakah jumlah tarik lebih besar dari 0. 
-
-**8.saldo = saldo - jumlah tarik :** Sistem mengurangi saldo dengan jumlah tarik. 
-
-**9.Print saldo :** Sistem mencetak saldo yang diperbarui. 
-
-**- Jika Pilihan = 2 (Cek saldo):** Print saldo (Print balance):Sistem mencetak saldo. <p>
-**- Jika Pilihan = 3 (Keluar):** "Terima kasih telah menggunakan mesin ATM ini" :Sistem menampilkan pesan terima kasih. <p>
-
-**10.Selesai (Finish):** Proses berakhir. 
+ 1. Mulai Program:
+    - Inisialisasi saldo awal sebesar Rp 1.000.000.000.
+ 2. Tampilkan Menu:
+    - Tampilkan menu pilihan kepada pengguna:
+      > Cek Saldo
+      > Tarik Tunai
+      > Keluar
+ 3. Meminta Input Pengguna:
+    - Minta pengguna memilih opsi dari menu.
+ 4. Proses Pilihan Pengguna:
+    - Jika Pilihan 1 (Cek Saldo):
+      > Tampilkan saldo saat ini.
+    - Jika Pilihan 2 (Tarik Tunai):
+      > Minta pengguna memasukkan jumlah uang yang ingin ditarik.
+      > Periksa apakah jumlah yang diminta lebih besar dari saldo.
+        > Jika ya, tampilkan pesan “Saldo tidak mencukupi.”
+        > Jika tidak, kurangi saldo dengan jumlah yang diminta dan tampilkan saldo saat ini.
+    - Jika Pilihan 3 (Keluar):
+      > Tampilkan pesan “Terima kasih telah menggunakan ATM kami.” dan akhiri program.
+    - Jika Pilihan Tidak Valid:
+      > Tampilkan pesan “Pilihan tidak valid. Silakan coba lagi.”
+ 5. Ulangi Proses:
+    - Kembali ke langkah 2 hingga pengguna memilih untuk keluar.
 
 ### Program python
 seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadikan sebuah program python

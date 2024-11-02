@@ -70,8 +70,8 @@ ini hasil eksekusi program python diatas
 
 **9.Print saldo :** Sistem mencetak saldo yang diperbarui. 
 
-**- Jika Pilihan = 2 (Cek saldo):** Print saldo (Print balance):Sistem mencetak saldo. 
-**- Jika Pilihan = 3 (Keluar):** "Terima kasih telah menggunakan mesin ATM ini" :Sistem menampilkan pesan terima kasih. 
+**- Jika Pilihan = 2 (Cek saldo):** Print saldo (Print balance):Sistem mencetak saldo. <o>
+**- Jika Pilihan = 3 (Keluar):** "Terima kasih telah menggunakan mesin ATM ini" :Sistem menampilkan pesan terima kasih. <o>
 
 **10.Selesai (Finish):** Proses berakhir. 
 

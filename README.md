@@ -5,6 +5,7 @@ Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa pemrograman <p>
 
 ## `Latihan1: Angka random`
+### Alur Algoritma Latihan1 :
 **1.Mulai Program :**
 - Import modul random.
 - Minta input dari pengguna untuk nilai n (jumlah bilangan acak yang ingin ditampilkan).
@@ -34,6 +35,33 @@ ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft6.png)
 
 ## `Latihan2: Laba`
+### Alur Algoritma Latihan2 :
+**1.Mulai Program:**
+- Inisialisasi modal awal sebesar Rp 100.000.000.
+- Buat daftar keuntungan_bulanan yang berisi persentase keuntungan untuk setiap bulan.
+  
+**2.Inisialisasi Variabel:**
+- Inisialisasi total_keuntungan dengan nilai 0 untuk menyimpan total keuntungan selama 8 bulan.
+  
+**3.Looping:**
+- Gunakan loop for untuk iterasi dari bulan 1 hingga bulan 8.
+  
+**4.Menghitung Keuntungan Bulanan:**
+- Di dalam loop, hitung laba bulan ini dengan mengalikan modal awal dengan persentase keuntungan bulan tersebut.
+- Tambahkan laba bulan ini ke total_keuntungan.
+  
+**5.Menampilkan Keuntungan Bulanan:**
+- Cetak keuntungan untuk bulan tersebut.
+  
+**6.Akhir Looping:**
+- Ulangi langkah 4 dan 5 untuk setiap bulan hingga bulan ke-8.
+  
+**7.Menampilkan Total Keuntungan:**
+- Setelah loop selesai, cetak total keuntungan selama 8 bulan.
+  
+**8.Selesai:**
+- Program selesai.
+  
 ### Program python
 ![gambar1](screenshot/ft7.png)
 ### Hasil eksekusi program 
@@ -45,7 +73,7 @@ ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft1.png)
 ![gambar1](screenshot/ft2.png)
 
-### penjelasan untuk Flowchart di atas
+### Alur Algoritma Latihan3 :
 **1.Mulai (Start):** Proses dimulai. 
 
 **2.Inisialisasi saldo:** Saldo awal diatur menjadi Rp. 100.000.000. 

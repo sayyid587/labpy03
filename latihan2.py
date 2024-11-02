@@ -16,7 +16,7 @@ def main():
     modal_awal = 100_000_000  # 100 juta IDR
 
     # Persentase laba per bulan
-    laba_per_bulan = [0, 0, 0.01, 0.01, 0.05, 0.05, 0.05, 0.02]
+    laba_per_bulan = [0, 0, 0.01, 0.01, 0.05, 0.05, 0.05, 0.03]
 
     # Menghitung total keuntungan
     total_keuntungan, laba_bulanan = hitung_keuntungan(modal_awal, laba_per_bulan)
